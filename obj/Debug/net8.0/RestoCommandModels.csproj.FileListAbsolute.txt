@@ -1,0 +1,22 @@
+C:\Users\Jean\source\repos\RestoCommandModels\bin\Debug\net8.0\RestoCommandModels.deps.json
+C:\Users\Jean\source\repos\RestoCommandModels\bin\Debug\net8.0\RestoCommandModels.dll
+C:\Users\Jean\source\repos\RestoCommandModels\bin\Debug\net8.0\RestoCommandModels.pdb
+C:\Users\Jean\source\repos\RestoCommandModels\obj\Debug\net8.0\RestoCommandModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean\source\repos\RestoCommandModels\obj\Debug\net8.0\RestoCommandModels.AssemblyInfoInputs.cache
+C:\Users\Jean\source\repos\RestoCommandModels\obj\Debug\net8.0\RestoCommandModels.AssemblyInfo.cs
+C:\Users\Jean\source\repos\RestoCommandModels\obj\Debug\net8.0\RestoCommandModels.csproj.CoreCompileInputs.cache
+C:\Users\Jean\source\repos\RestoCommandModels\obj\Debug\net8.0\RestoCommandModels.dll
+C:\Users\Jean\source\repos\RestoCommandModels\obj\Debug\net8.0\refint\RestoCommandModels.dll
+C:\Users\Jean\source\repos\RestoCommandModels\obj\Debug\net8.0\RestoCommandModels.pdb
+C:\Users\Jean\source\repos\RestoCommandModels\obj\Debug\net8.0\ref\RestoCommandModels.dll
+C:\Users\Jean\Desktop\repos\Omosubi Projects\RestoCommandModels\bin\Debug\net8.0\RestoCommandModels.deps.json
+C:\Users\Jean\Desktop\repos\Omosubi Projects\RestoCommandModels\bin\Debug\net8.0\RestoCommandModels.dll
+C:\Users\Jean\Desktop\repos\Omosubi Projects\RestoCommandModels\bin\Debug\net8.0\RestoCommandModels.pdb
+C:\Users\Jean\Desktop\repos\Omosubi Projects\RestoCommandModels\obj\Debug\net8.0\RestoCommandModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jean\Desktop\repos\Omosubi Projects\RestoCommandModels\obj\Debug\net8.0\RestoCommandModels.AssemblyInfoInputs.cache
+C:\Users\Jean\Desktop\repos\Omosubi Projects\RestoCommandModels\obj\Debug\net8.0\RestoCommandModels.AssemblyInfo.cs
+C:\Users\Jean\Desktop\repos\Omosubi Projects\RestoCommandModels\obj\Debug\net8.0\RestoCommandModels.csproj.CoreCompileInputs.cache
+C:\Users\Jean\Desktop\repos\Omosubi Projects\RestoCommandModels\obj\Debug\net8.0\RestoCommandModels.dll
+C:\Users\Jean\Desktop\repos\Omosubi Projects\RestoCommandModels\obj\Debug\net8.0\refint\RestoCommandModels.dll
+C:\Users\Jean\Desktop\repos\Omosubi Projects\RestoCommandModels\obj\Debug\net8.0\RestoCommandModels.pdb
+C:\Users\Jean\Desktop\repos\Omosubi Projects\RestoCommandModels\obj\Debug\net8.0\ref\RestoCommandModels.dll
